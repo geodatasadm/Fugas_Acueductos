@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "fugas_acueductos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "CADEREYTA", "Longitud": -99.90173, "Latitud": 25.517253, "Acueducto": "CHINA" }, "geometry": { "type": "Point", "coordinates": [ -99.901729894036606, 25.517253467241119, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "LOS RAMONES", "Longitud": -99.600976, "Latitud": 25.583957, "Acueducto": "CHINA" }, "geometry": { "type": "Point", "coordinates": [ -99.600976373162581, 25.583957381378571, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CHINA", "Longitud": -98.970394, "Latitud": 25.500768, "Acueducto": "CHINA" }, "geometry": { "type": "Point", "coordinates": [ -98.970393522265766, 25.500768307950061, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "MINA", "Longitud": -100.766488, "Latitud": 26.248417, "Acueducto": "MINA" }, "geometry": { "type": "Point", "coordinates": [ -100.766487741572206, 26.248417146008869, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "HIDALGO", "Longitud": -100.436294, "Latitud": 25.993756, "Acueducto": "MINA" }, "geometry": { "type": "Point", "coordinates": [ -100.436294162855205, 25.993755677338381, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ABASOLO", "Longitud": -100.397214, "Latitud": 25.94226, "Acueducto": "MINA" }, "geometry": { "type": "Point", "coordinates": [ -100.397214140075604, 25.942260333441201, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "EL CARMEN", "Longitud": -100.341147, "Latitud": 25.882339, "Acueducto": "MINA" }, "geometry": { "type": "Point", "coordinates": [ -100.341146809292994, 25.882339270245801, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ESCOBEDO", "Longitud": -100.338291, "Latitud": 25.795671, "Acueducto": "MINA" }, "geometry": { "type": "Point", "coordinates": [ -100.338290776010098, 25.79567074010388, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SAN NICOLAS", "Longitud": -100.258519, "Latitud": 25.720709, "Acueducto": "MINA" }, "geometry": { "type": "Point", "coordinates": [ -100.258519408830693, 25.72070890361341, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "GARCIA", "Longitud": -100.6677, "Latitud": 25.803085, "Acueducto": "MTY V" }, "geometry": { "type": "Point", "coordinates": [ -100.667700005170701, 25.803085260169532, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "APODACA", "Longitud": -100.177966, "Latitud": 25.798773, "Acueducto": "MTY V" }, "geometry": { "type": "Point", "coordinates": [ -100.177966381370197, 25.798772855714361, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ESCOBEDO", "Longitud": -100.341113, "Latitud": 25.825584, "Acueducto": "MTY V" }, "geometry": { "type": "Point", "coordinates": [ -100.341112944917498, 25.825583732735591, 0.0 ] } }
+]
+}
